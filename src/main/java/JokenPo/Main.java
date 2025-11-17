@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-        System.out.println("=== JOKENPO ===");
+        System.out.println("------- JOKENPO -------");
         System.out.println("Escolha seu gesto: (PEDRA, PAPEL, TESOURA)");
         System.out.print("Você: ");
         String inputUsuario = sc.nextLine().trim().toUpperCase();
